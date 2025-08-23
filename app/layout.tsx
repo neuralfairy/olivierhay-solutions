@@ -12,6 +12,9 @@ export const metadata: Metadata = {
   title: "Olivierhay Solutions - B2B Lead Generation Agency | San Diego",
   description:
     "San Diego's premier B2B lead generation agency. We help companies scale with precision prospecting, automated workflows, and intelligent analytics.",
+  icons: {
+    icon: "/favicon.png",
+  },
   keywords: "B2B lead generation, San Diego, prospecting, CRM integration, sales automation",
   openGraph: {
     title: "Olivierhay Solutions - B2B Lead Generation Agency",
